@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552815411665",
+    "project_id": "shafy-30562",
+    "storage_bucket": "shafy-30562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552815411665:android:6df1e39444c0f0841220f0",
+        "android_client_info": {
+          "package_name": "com.example.shafy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552815411665-850p8ef4mrccqjcvi23m9hktho7l1er3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0NM5HRLQkOo-7J9yhotDFSo5OEWAyxXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552815411665-850p8ef4mrccqjcvi23m9hktho7l1er3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
